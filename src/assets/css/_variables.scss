@@ -1,0 +1,74 @@
+$white: #ffffff;
+$black: #000000;
+$gray: #9b9b9b;
+$darkgrey: #5a5a5a;
+$dark: #303440;
+
+$default: #292E37;
+
+$primary: #800f0f;
+$secondary: #7d7d7d;
+$success: #3cd089;
+$danger: #ff6060;
+$warning: #ffd400;
+$blue: #1e7de8;
+$blue1: #1AA7EF;
+
+$darkblue: #0A3158;
+$darkorange: #BF4400;
+$darkyellow: #8E7300;
+$darkgray: #6B6F72;
+
+$pink: #E0747F;
+
+$min-contrast-ratio: 2.5;
+
+$red1: #ff4e67;
+$red2: #fe0034;
+$red3: #d6002c;
+
+$green1: #4cec8a;
+$green2: #0fcc58;
+$green3: #3ab52a;
+$green4: #04928C;
+$green5: #3EA3C8;
+
+
+$yellow: #ffc42d;
+
+$pewter-blue: #80A6E1;
+$persian-pink: #FF84BB;
+$chinese-silver: #C8C8C8;
+
+$normal-grey: #959595;
+
+// border radius
+$border-radius: 5px;
+
+// modal
+$modal-header-border-width: none;
+$modal-footer-border-width: none;
+
+// offcanva
+$offcanvas-bg-color: $black;
+$offcanvas-color: $white;
+
+// spacing
+$enable-negative-margins: true;
+
+// breadcrumb
+$breadcrumb-divider-color: $white;
+$breadcrumb-active-color: $white;
+
+// table
+$table-bg: transparent;
+$table-border-color: transparent;
+$table-color: $white;
+
+// range
+$form-range-track-bg: transparent;
+$form-range-thumb-disabled-bg: $white;
+
+// progress
+$progress-bg: $black;
+$progress-height: 20px;
